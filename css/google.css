@@ -1,0 +1,59 @@
+body {
+        margin: 0;
+        padding: 0;
+        width: 1000px;
+        background-color: white
+}
+
+
+
+.logo {
+        text-align: center;
+        margin-top: 150px;
+        margin-left: 900px;
+       
+}
+
+img {
+
+        width: 500px;
+        height: 160px;
+}
+
+.container {
+        width: 1800px;
+        height: 90px;
+        margin-left: 250px;
+        background-color: rgb(233, 230, 231);
+        text-align: center;
+        margin-bottom: 25px; 
+}
+
+.div1 {
+        float: left;
+        margin: 2px 1px auto ;
+        background-color: rgb(127, 226, 205);
+        width: 34%;
+
+}
+.div2 {
+        float: left;
+        margin: 2px 0px auto 6px;
+        background-color: rgb(93, 173, 156);
+        width: 25%;
+}
+
+.div3 {
+        float: right;
+        margin: 2px;
+        background-color: rgb(79, 145, 130);
+        width: 40%;
+}
+
+.fs-18 {
+
+        font-size: 16px;
+}
+.fs-14 {
+        font-size: 13px;
+}
